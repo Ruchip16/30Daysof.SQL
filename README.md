@@ -1,5 +1,6 @@
 # 30Daysof.SQL
-I have created this repo to track my progress 
+
+This repo contains all sql queries with their syntax and example so that I could refer this quickly later. ⭐
 
 | Day | Topic Covered |
 | :----:|:------------------|
