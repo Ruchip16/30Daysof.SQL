@@ -9,9 +9,9 @@
 ```sh
 SELECT column1, column2 FROM name_of_table;
 ```
-**column1 , column2:** names of the fields of the table
+**column1 , column2:**  names of the fields of the table
 
-**name_of_table:** from where we want to fetch
+**name_of_table:**  from where we want to fetch
 
 
 ### Syntax to fetch the entire table: 
